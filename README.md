@@ -17,7 +17,7 @@ Liability, whether in an action of contract, tort or otherwise, arising from,
 Out of or in connection with the software or the use or other dealings in the
 Software.
 
-_See License_
+_See License for more information._
 
 ## Install
 
